@@ -1,7 +1,7 @@
 # course-project-3
 
  
- ## How the script works
+## How the script works
 
 * run_analysis.R read the data ubicated in the direcetory UCI HAR Dataset. It reads first files features.txt, activity_labels.txt and subject_train.txt that are the commun files used by both data sets, train and test.
 
