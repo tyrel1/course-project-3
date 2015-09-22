@@ -68,6 +68,10 @@
 [79] "fBodyBodyAccJerkMag.std.." "fBodyBodyGyroMag.std.."
 [81] "fBodyBodyGyroJerkMag.std.."
 
-* Variable that indicate the activity "act"
+* Variable that indicate the activity 
+   
+   "act"
 
-* Variable that indicate the subject "subj"
+* Variable that indicate the subject 
+ 
+  "subj"
